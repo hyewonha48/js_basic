@@ -20,3 +20,5 @@ Product_number = 3;
 console.log(`주문수량 ${Product_number}개, 총 결제금액은 ${Product_price*Product_number}원 입니다.`)
 // Product_number 변수의 데이터종류는?
 console.log(`Product_number변수의 데이터 종류는 ${typeof Product_number}`)
+
+// var_let_const 에러로 var_let_const2 새로만듬, 같은내용++
